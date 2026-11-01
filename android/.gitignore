@@ -1,0 +1,4 @@
+# Personal memory and generated briefs: never commit (public repo)
+private/
+# Build output
+dist/
